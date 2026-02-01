@@ -4,13 +4,13 @@ High-standard End-to-End automation framework for [Saucedemo](https://www.sauced
 
 ---
 
-## �‍💻 Author Info
+##  Author Info
 - **Author:** [Mallik Galib Shahriar](https://www.linkedin.com/in/mallikgalibshahriar/)
 - **Project Type:** Automation Framework for QA Bootcamp
 
 ---
 
-## �🚀 Key Features
+##  Key Features
 
 - **Modern POM Architecture:** Clean and scalable Page Object Model structure.
 - **Global Authentication:** Uses Playwright Session Storage to login once and reuse the session, significantly reducing execution time.
