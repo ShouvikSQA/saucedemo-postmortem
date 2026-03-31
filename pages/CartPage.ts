@@ -10,7 +10,7 @@ import { Page, Locator, expect } from '@playwright/test';
  * Why? To isolate cart actions. Even if the checkout button ID changes, our tests stay clean.
  */
 export class CartPage {
-    private readonly page: Page;
+    private readonly page: Page;;
     private readonly cartItems: Locator;
     private readonly checkoutButton: Locator;
     private readonly continueShoppingButton: Locator;
